@@ -1,0 +1,11 @@
+C:\code\pstestlab2\EmployeeManager\bin\Debug\net6.0\EmployeeManager.deps.json
+C:\code\pstestlab2\EmployeeManager\bin\Debug\net6.0\EmployeeManager.dll
+C:\code\pstestlab2\EmployeeManager\bin\Debug\net6.0\EmployeeManager.pdb
+C:\code\pstestlab2\EmployeeManager\obj\Debug\net6.0\EmployeeManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\pstestlab2\EmployeeManager\obj\Debug\net6.0\EmployeeManager.AssemblyInfoInputs.cache
+C:\code\pstestlab2\EmployeeManager\obj\Debug\net6.0\EmployeeManager.AssemblyInfo.cs
+C:\code\pstestlab2\EmployeeManager\obj\Debug\net6.0\EmployeeManager.csproj.CoreCompileInputs.cache
+C:\code\pstestlab2\EmployeeManager\obj\Debug\net6.0\EmployeeManager.dll
+C:\code\pstestlab2\EmployeeManager\obj\Debug\net6.0\refint\EmployeeManager.dll
+C:\code\pstestlab2\EmployeeManager\obj\Debug\net6.0\EmployeeManager.pdb
+C:\code\pstestlab2\EmployeeManager\obj\Debug\net6.0\ref\EmployeeManager.dll
